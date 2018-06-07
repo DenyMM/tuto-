@@ -1,9 +1,9 @@
-# Deny :octocat: :octocat: :octocat: :octocat: :octocat:
-## F :octocat:
-### F :octocat:
-#### F :octocat:
-##### F :octocat:
-###### F :octocat:
+# Deny :octocat: :octocat: :octocat: :octocat: :octocat: :man_with_gua_pi_mao: :man_with_gua_pi_mao: :man_with_gua_pi_mao:
+## F :octocat: :man_with_gua_pi_mao:
+### F :octocat: :man_with_gua_pi_mao:
+#### F :octocat: :man_with_gua_pi_mao:
+##### F :octocat: :man_with_gua_pi_mao:
+###### F :octocat: :man_with_gua_pi_mao:
 *No he acabado el codigo*
 **No se si acabe**
 ~~ffffffff~~
@@ -14,4 +14,4 @@
 * k
 * i
 > esta es una prueba de laboratoria
-:octocat:
+:octocat: :man_with_gua_pi_mao:
